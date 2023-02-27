@@ -8,7 +8,6 @@
 -   Open the Linux terminal and enter the following commands:
 ```bash
 sudo apt update
-sudo apt install curl git unzip xz-utils zip libglu1-mesa openjdk-11-jdk wget nano
 ```
 -  This will install the required packages and dependencies for Flutter.
 #### Download Flutter:
