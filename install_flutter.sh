@@ -55,5 +55,4 @@ code --install-extension dart-code.dart-code --force
 code --install-extension dart-code.flutter --force
 
 # Verify the installation
-echo "Verifying the installation..."
-echo "To make sure everything was installed correctly, run: flutter doctor"
+echo "To make sure everything was installed correctly, reopen the terminal and run: flutter doctor"
